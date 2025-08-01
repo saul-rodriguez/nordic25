@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "aska.h": "c",
+        "printk.h": "c"
+    }
+}
